@@ -1,0 +1,9 @@
+  $font-family: Consolas,"Arial",Serif;
+
+  $font-size-m: 16px;
+  $font-line-m: 24px;
+  $font-m: #{$font-size-m}/#{$font-line-m} $font-family;
+
+  $font-size-l: 24px;
+  $font-line-l: 32px;
+  $font-l: #{$font-size-l} / #{$font-line-l} $font-family;
