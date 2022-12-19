@@ -1,24 +1,2 @@
 @import "reset.css";
 @import "./variables/global";
-@import "./themes/dark";
-@import "./themes/light";
-
-.app {
-  font: $font-m;
-  background-color: var(--bg-color);
-  color: var(--primary-color);
-  min-height: 100vh;
-}
-.menu {
-  text-align: right;
-  width: 100%;
-}
-
-.menuItem {
-  margin: 10px;
-  float: left;
-}
-
-.menuItem a {
-  color: teal;
-}
